@@ -1,0 +1,2 @@
+extism==1.0.2
+dc-schema==0.0.8
